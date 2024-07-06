@@ -1,5 +1,5 @@
-• Data analysis of death and new vaccinations during the time of pandemic 
-• Used SQL for data exploration 
+• Data analysis of death and new vaccinations during the time of pandemic <br>
+• Used SQL for data exploration <br>
 • Saved useful tables that will be used for the dashboard
 
 Dashboard using Tableau:
